@@ -7,7 +7,7 @@ Try it now: https://ethereal-shine-422415-g5.web.app/
 ## Introduction
 SoundSeg is an advanced audio processing project, focused on segmenting and analyzing sound data. The core of the project revolves around machine learning models, specifically designed for audio source seperation of songs into the vocal component.
 
-Please see the projects preprint for more details: [Spectral Mapping of Singing Voices: U-Net-Assisted Vocal Segmentation](https://drive.google.com/file/d/1fmrJH_s5dT92-KaE1Uk1AAKe5vcr3LaN/view?usp=sharing)
+Please see the projects preprint for more details: [Spectral Mapping of Singing Voices: U-Net-Assisted Vocal Segmentation](https://drive.google.com/file/d/1zc46mNFrbDC2p2_xG97TUnBvljkbug68/view?usp=sharing)
 
 ## Example Audio and Spectrograms
 
