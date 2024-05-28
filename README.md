@@ -1,8 +1,6 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mbrotos/SoundSeg/blob/main/demo.ipynb)
-
 # SoundSeg
 
-Try it now: https://ethereal-shine-422415-g5.web.app/
+### **Try the live demo now**: https://ethereal-shine-422415-g5.web.app/
 
 ## Introduction
 SoundSeg is an advanced audio processing project, focused on segmenting and analyzing sound data. The core of the project revolves around machine learning models, specifically designed for audio source seperation of songs into the vocal component.
